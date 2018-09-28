@@ -1,0 +1,10 @@
+ id |   name   |        email         | entries |         joined          
+----+----------+----------------------+---------+-------------------------
+  2 | suresh   | suresh@gmail.com     |       0 | 2018-09-26 19:56:36.935
+  3 | Sharmila | sharmila@gmail.com   |       0 | 2018-09-26 19:58:50.637
+  5 | bhola    | bhola@gmail.com      |       0 | 2018-09-26 21:23:24.181
+  1 | Prasar   | prasar@gmail.com     |       4 | 2018-09-26 19:49:53.786
+  6 | Deepak   | {"deepak@gmail.com"} |       0 | 2018-09-26 22:20:28.167
+  7 | Pratap   | pratap@gmail.com     |       0 | 2018-09-26 22:38:28.577
+(6 rows)
+
